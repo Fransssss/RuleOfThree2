@@ -7,7 +7,7 @@ Objectives:
 - declare and define class pointer copy constructor
 - declare and define class pointer copy assignment
 - declare and define class pointer destructor
-
+- user stringstream to display data
 
 
 Example output
